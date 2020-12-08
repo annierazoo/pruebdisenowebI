@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+
+	
+}
+header{
+	background-color: #000;
+}
+
+#slides{
+	padding:5%;
+	background-image:url("../img/bg-sliders.jpg");
+	background-size:cover;
+	background-position:center;
+	color:white;
+}
+h1{
+	font-weight:bolder;
+}
+#banners{
+	margin:5% 0%;
+}
+#product{
+	padding:10%;
+}
+#clients-footer{
+	padding:5%;
+}
+footer{
+	background-color:#323232;
+	color:white;
+	text-align:center;
+	padding:4%;
+}
+hr{
+	color:white;
+}
+.btn-primary{
+	background-color:transparent;
+	color:green;
+	border-color:green;
+	border-radius:20px;
+	padding:4%;
+	text-align:center;
+}
+.foto_salsa{
+	text-align:center;
+}
